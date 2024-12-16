@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+NOHU90 TTNET - Link Truy Cập Nền Tảng NOHU90 Không Chặn 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`NOHU90 <https://nohu90tt.net/>`_ TTNET là đại lý chính thức truy cập nhà cái NOHU90 chính thức. Sở hữu kho game đa dạng, từ cá cược thể thao đến casino trực tuyến, nhà cái NOHU90 đảm bảo trải nghiệm chất lượng và an toàn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+- Địa chỉ: Đ. Tân Thắng/12A Hẻm 77, Khu Phố 2, Tân Phú, Hồ Chí Minh, Vietnam
 
-.. note::
+- Hotline: 028 3844 5999 
 
-   This project is under active development.
+- Website: https://nohu90tt.net/
 
-Contents
---------
+- Email: admin@nohu90tt.net
 
-.. toctree::
-
-   usage
-   api
+#nohu #nohu90 #nhacainohu90 #nohu90ttnet #linknohu90 #trangchunohu90
